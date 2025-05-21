@@ -85,6 +85,9 @@
         <mxCell id="iyhfUuM6Ae__vzOfPB-b-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="350.01" width="10" height="125.62" as="geometry" />
         </mxCell>
+        <mxCell id="iyhfUuM6Ae__vzOfPB-b-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="380" width="30" height="102.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
