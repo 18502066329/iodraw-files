@@ -10,6 +10,9 @@
         <mxCell id="Q6sdSAsmUWhceLy2UND5-0" value="&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Sensor Deployment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="400" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iyhfUuM6Ae__vzOfPB-b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6sdSAsmUWhceLy2UND5-1" target="Q6sdSAsmUWhceLy2UND5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-1" value="&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Data &lt;/span&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Collection&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="400" width="60" height="30" as="geometry" />
         </mxCell>
@@ -66,12 +69,6 @@
         </mxCell>
         <mxCell id="iyhfUuM6Ae__vzOfPB-b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6sdSAsmUWhceLy2UND5-1" target="Q6sdSAsmUWhceLy2UND5-4">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iyhfUuM6Ae__vzOfPB-b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="156" y="441" as="sourcePoint" />
-            <mxPoint x="131" y="481" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
