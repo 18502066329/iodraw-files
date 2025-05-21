@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1018" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-1" value="&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Data &lt;/span&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Collection&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="190" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6sdSAsmUWhceLy2UND5-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="150" as="sourcePoint" />
-            <mxPoint x="414" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="160" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-3" value="Receiving Information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="424" y="150" width="50" height="40" as="geometry" />
