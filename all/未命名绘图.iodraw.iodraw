@@ -59,7 +59,7 @@
           <mxGeometry x="30" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-54" value="Data&lt;div&gt;Acquisition&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-56" value="Decision&lt;div&gt;Engine&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="250" width="60" height="30" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="iyhfUuM6Ae__vzOfPB-b-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="530" as="sourcePoint" />
-            <mxPoint x="80" y="446.25" as="targetPoint" />
+            <mxPoint x="80" y="500" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
