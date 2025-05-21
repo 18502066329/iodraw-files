@@ -168,7 +168,7 @@
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="Q6sdSAsmUWhceLy2UND5-48" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="390" as="sourcePoint" />
+            <mxPoint x="80" y="365" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
