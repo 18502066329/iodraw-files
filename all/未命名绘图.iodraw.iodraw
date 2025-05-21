@@ -157,11 +157,8 @@
         <mxCell id="Q6sdSAsmUWhceLy2UND5-45" value="&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Feedback Loop&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="680" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q6sdSAsmUWhceLy2UND5-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="290" width="20" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-53" value="Data Transmission&lt;div&gt;Analyzing&lt;/div&gt;&lt;div&gt;&amp;nbsp;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="390" width="60" height="20" as="geometry" />
+          <mxGeometry x="30" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-54" value="Data&lt;div&gt;Acquisition&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="110" width="60" height="30" as="geometry" />
@@ -170,7 +167,7 @@
           <mxGeometry x="289" y="605" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-56" value="Decision&lt;div&gt;Engine&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="635" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
