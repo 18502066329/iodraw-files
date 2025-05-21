@@ -56,7 +56,7 @@
           <mxGeometry x="590" y="447.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-53" value="Data Transmission&lt;div&gt;Analyzing&lt;/div&gt;&lt;div&gt;&amp;nbsp;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="560" width="60" height="20" as="geometry" />
+          <mxGeometry x="320" y="565" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-54" value="Data&lt;div&gt;Acquisition&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="555" width="60" height="30" as="geometry" />
