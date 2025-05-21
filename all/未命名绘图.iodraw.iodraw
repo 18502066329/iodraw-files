@@ -46,12 +46,6 @@
         <mxCell id="Q6sdSAsmUWhceLy2UND5-43" value="&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Decision Execution&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="640" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q6sdSAsmUWhceLy2UND5-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="416" y="660" as="sourcePoint" />
-            <mxPoint x="415.76" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-45" value="&lt;span style=&quot;scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 600; font-stretch: inherit; font-size: 9px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Feedback Loop&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="680" width="120" height="20" as="geometry" />
         </mxCell>
