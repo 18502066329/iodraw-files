@@ -82,13 +82,8 @@
         <mxCell id="iyhfUuM6Ae__vzOfPB-b-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="446" y="350" width="34" height="131.25" as="geometry" />
         </mxCell>
-        <mxCell id="iyhfUuM6Ae__vzOfPB-b-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iyhfUuM6Ae__vzOfPB-b-37" target="Q6sdSAsmUWhceLy2UND5-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="414.38" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iyhfUuM6Ae__vzOfPB-b-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="354.38" width="20" height="121.25" as="geometry" />
+          <mxGeometry x="540" y="350.01" width="10" height="125.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
