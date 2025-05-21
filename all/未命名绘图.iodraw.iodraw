@@ -164,10 +164,10 @@
           <mxGeometry x="250" y="290" width="20" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Q6sdSAsmUWhceLy2UND5-53" value="Data Transmission Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="390" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q6sdSAsmUWhceLy2UND5-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="Q6sdSAsmUWhceLy2UND5-54" value="Data&lt;div&gt;Aquisition&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="219" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
